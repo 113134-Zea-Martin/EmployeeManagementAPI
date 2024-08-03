@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\source\\repos\\EmployeeManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{347AB235-F638-4043-8132-572FEA860505}|EmployeeManagementAPI.csproj|c:\\users\\marti\\source\\repos\\employeemanagementapi\\validator\\departamentovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347AB235-F638-4043-8132-572FEA860505}|EmployeeManagementAPI.csproj|solutionrelative:validator\\departamentovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347AB235-F638-4043-8132-572FEA860505}|EmployeeManagementAPI.csproj|c:\\users\\marti\\source\\repos\\employeemanagementapi\\validator\\departamentodtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347AB235-F638-4043-8132-572FEA860505}|EmployeeManagementAPI.csproj|solutionrelative:validator\\departamentodtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347AB235-F638-4043-8132-572FEA860505}|EmployeeManagementAPI.csproj|c:\\users\\marti\\source\\repos\\employeemanagementapi\\services\\implementations\\departamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347AB235-F638-4043-8132-572FEA860505}|EmployeeManagementAPI.csproj|solutionrelative:services\\implementations\\departamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347AB235-F638-4043-8132-572FEA860505}|EmployeeManagementAPI.csproj|c:\\users\\marti\\source\\repos\\employeemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347AB235-F638-4043-8132-572FEA860505}|EmployeeManagementAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347AB235-F638-4043-8132-572FEA860505}|EmployeeManagementAPI.csproj|c:\\users\\marti\\source\\repos\\employeemanagementapi\\repositories\\implementations\\departamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347AB235-F638-4043-8132-572FEA860505}|EmployeeManagementAPI.csproj|solutionrelative:repositories\\implementations\\departamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347AB235-F638-4043-8132-572FEA860505}|EmployeeManagementAPI.csproj|c:\\users\\marti\\source\\repos\\employeemanagementapi\\controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347AB235-F638-4043-8132-572FEA860505}|EmployeeManagementAPI.csproj|solutionrelative:controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartamentoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\EmployeeManagementAPI\\Validator\\DepartamentoValidator.cs",
+              "RelativeDocumentMoniker": "Validator\\DepartamentoValidator.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\EmployeeManagementAPI\\Validator\\DepartamentoValidator.cs",
+              "RelativeToolTip": "Validator\\DepartamentoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:58:08.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartamentoDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\EmployeeManagementAPI\\Validator\\DepartamentoDtoValidator.cs",
+              "RelativeDocumentMoniker": "Validator\\DepartamentoDtoValidator.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\EmployeeManagementAPI\\Validator\\DepartamentoDtoValidator.cs",
+              "RelativeToolTip": "Validator\\DepartamentoDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:58:05.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\EmployeeManagementAPI\\Services\\Implementations\\DepartamentoService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\DepartamentoService.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\EmployeeManagementAPI\\Services\\Implementations\\DepartamentoService.cs",
+              "RelativeToolTip": "Services\\Implementations\\DepartamentoService.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:44:19.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\EmployeeManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\EmployeeManagementAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T00:27:54.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\EmployeeManagementAPI\\Repositories\\Implementations\\DepartamentoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\DepartamentoRepository.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\EmployeeManagementAPI\\Repositories\\Implementations\\DepartamentoRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\DepartamentoRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAIA2wDQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:44:26.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartamentosController.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\EmployeeManagementAPI\\Controllers\\DepartamentosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartamentosController.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\EmployeeManagementAPI\\Controllers\\DepartamentosController.cs",
+              "RelativeToolTip": "Controllers\\DepartamentosController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA0wDAAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:22:16.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
